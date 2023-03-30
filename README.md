@@ -12,9 +12,10 @@ License
 Installation
 To run the project locally, you can either clone the repository or download the ZIP file and extract it to your local machine.
 
-bash
 Copy code
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://suraj-2808.github.io/tic-tac-toe-game/
+
+
 Usage
 Once you have the project files on your local machine, you can open the index.html file in your web browser to start playing the game. The game is played on a 3x3 grid, with players taking turns to place their X or O in a cell. The first player to get three in a row (horizontally, vertically, or diagonally) wins the game.
 
